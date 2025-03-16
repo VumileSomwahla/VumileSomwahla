@@ -21,6 +21,7 @@
 <h2>💡 Interests & Collaboration</h2>
 
 <strong>✅ Frontend Development → Angular, JavaScript, TypeScript, HTML, CSS
+
 ✅ Backend Development → .NET Web API, C#, SQL, Entity Framework </strong>
 
 
