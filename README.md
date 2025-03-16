@@ -3,28 +3,29 @@
 </p>  
 ---
 
-📌 About Me
+<h2> 📌 About Me </h2>
 
 🔹 Passionate about full-stack development, problem-solving, and technology-driven solutions.
+
 🔹 Constantly exploring new technologies and improving my technical skills.
 
 
 ---
 
-📖 Currently Learning
+<h2> 📖 Currently Learning </h2>
 
 📌 Algorithms & Data Structures
 📌 Azure Fundamentals (AZ-900, AZ-104)
 
-💡 Interests & Collaboration
+<h2>💡 Interests & Collaboration</h2>
 
-✅ Frontend Development → Angular, JavaScript, TypeScript, HTML, CSS
-✅ Backend Development → .NET Web API, C#, SQL, Entity Framework
+<strong>✅ Frontend Development → Angular, JavaScript, TypeScript, HTML, CSS
+✅ Backend Development → .NET Web API, C#, SQL, Entity Framework </strong>
 
 
 ---
 
-🛠️ Tech Stack & Tools
+<h2>🛠️ Tech Stack & Tools</h2>
 
 <p align="center">  
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
@@ -43,8 +44,8 @@
 </p>  
 ---
 
-📫 Connect with Me
+<h2>📫 Connect with Me</h2>
 
-📩 Email: vumilesomwahla@gmail.com
+<strong>📩 Email: vumilesomwahla@gmail.com</strong>
 
-😄 Pronouns: He/Him
+<strong>😄 Pronouns: He/Him</strong>
