@@ -45,6 +45,12 @@
   <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  
 </p>  
 ---
+<h2>📊 GitHub Stats & Language Usage</h2>
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />  
+</p>  
+---
 
 <h2>📫 Connect with Me</h2>
 
