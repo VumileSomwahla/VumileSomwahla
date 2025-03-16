@@ -1,32 +1,32 @@
-👋 Hi, I'm Vumile Somwahla!
+<h1 align="center">✨ Hi, I'm Vumile Somwahla! ✨</h1>  <p align="center">
+🚀 <strong>Informatics Honours Student | Aspiring Software Engineer</strong>  
+</p>  
+---
 
-🚀 Informatics Honours Student | Aspiring Software Engineer
+📌 About Me
+
 🔹 Passionate about full-stack development, problem-solving, and technology-driven solutions.
-🔹 Constantly learning and exploring new technologies to enhance my skills.
+🔹 Constantly exploring new technologies and improving my technical skills.
 
 
 ---
 
-🌱 What I'm Currently Learning
+📖 Currently Learning
 
-Algorithms & Data Structures
-
-Azure Fundamentals
-
+📌 Algorithms & Data Structures
+📌 Azure Fundamentals (AZ-900, AZ-104)
 
 💡 Interests & Collaboration
 
-Frontend Development (Angular, JavaScript, TypeScript, HTML, CSS)
-
-Backend Development (.NET Web API, C#, SQL, Entity Framework)
-
+✅ Frontend Development → Angular, JavaScript, TypeScript, HTML, CSS
+✅ Backend Development → .NET Web API, C#, SQL, Entity Framework
 
 
 ---
 
 🛠️ Tech Stack & Tools
 
-<div align="center">  
+<p align="center">  
   <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />  
   <img src="https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white" />  
   <img src="https://img.shields.io/badge/-SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />  
@@ -39,10 +39,11 @@ Backend Development (.NET Web API, C#, SQL, Entity Framework)
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />  
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />  
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />  
-</div>  
+  <img src="https://img.shields.io/badge/-R-276DC3?style=for-the-badge&logo=r&logoColor=white" />  
+</p>  
 ---
 
-📫 How to Reach Me
+📫 Connect with Me
 
 📩 Email: vumilesomwahla@gmail.com
 
