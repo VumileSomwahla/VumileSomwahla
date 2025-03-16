@@ -15,6 +15,7 @@
 <h2> 📖 Currently Learning </h2>
 
 📌 Algorithms & Data Structures
+
 📌 Azure Fundamentals (AZ-900, AZ-104)
 
 <h2>💡 Interests & Collaboration</h2>
