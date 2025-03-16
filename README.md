@@ -48,8 +48,8 @@
 <h2>📊 GitHub Stats & Language Usage</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&langs_count=8&theme=radical&layout=compact&exclude_repo=github-readme-stats" alt="Most Used Languages" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&theme=radical" alt="Coding Activity" />
+</p>
 ---
 
 <h2>📫 Connect with Me</h2>
