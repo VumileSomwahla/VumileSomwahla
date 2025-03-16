@@ -47,8 +47,8 @@
 ---
 <h2>📊 GitHub Stats & Language Usage</h2>
 
-<p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&langs_count=8&theme=radical&layout=compact&exclude_repo=github-readme-stats" alt="Most Used Languages" />
 </p>  
 ---
 
