@@ -65,7 +65,8 @@
 <h2>📚 Current Work</h2>  
 
 <ul>
-  <li>🔹 Contributing to <strong>real-world projects</strong> as an IT Consulting Intern at <strong>Allegro Enterprises</strong>.</li>
+  <li>🔹 Contributed to <strong>real-world projects</strong> as an IT Consulting Intern at <strong>Allegro Enterprises</strong>.</li>
+  <li>🔹 Contributing to <strong>real-world projects</strong> as a Graduate Data Analyst at <strong>Otraco Southern Africa</strong>.</li>
   <li>🔹 Building <strong>personal projects</strong> that showcase full-stack development and cloud integration.</li>
 </ul>
 
