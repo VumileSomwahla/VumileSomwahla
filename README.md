@@ -94,7 +94,7 @@
 
 <h2>📊 GitHub Stats</h2>  
 <p align="center"><strong>
-  These stats are from all the public repositories only. They do not include any contributions I have made to projects I have been invited to collaborate on, or my private repos.
+  These stats are from all the public repositories only. They do not include any contributions I have made to projects I was invited to collaborate on, or my private repos.
 </p></strong>
 
 <p align="center">  
