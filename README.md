@@ -95,8 +95,8 @@
 <h2>📊 GitHub Stats</h2>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&langs_count=8&theme=radical&layout=compact&exclude_repo=github-readme-stats" alt="Most Used Languages" />  
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=VumileSomwahla&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
 <hr>
 
