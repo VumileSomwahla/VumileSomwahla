@@ -93,6 +93,9 @@
 <hr>
 
 <h2>📊 GitHub Stats</h2>  
+<p align="center">
+  These stats are from all the public repository only. They do not include any contributions I have made to projects have been invited to do, and my private repos
+</p>
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VumileSomwahla&langs_count=8&theme=radical&layout=compact&include_all_commits=true" alt="Most Used Languages" />  
