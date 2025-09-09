@@ -62,7 +62,7 @@
 
 <hr>
 
-<h2>📚 Current Work</h2>  
+<h2>📚 Past Work</h2>  
 
 <ul>
   <li>🔹 Contributed to <strong>real-world projects</strong> as an IT Consulting Intern at <strong>Allegro Enterprises</strong>.</li>
