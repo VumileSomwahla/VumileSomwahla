@@ -9,7 +9,7 @@
 <h2>📌 About Me</h2>  
 
 <ul>
-  <li>🔹 Passionate about full-stack development, problem-solving, and technology-driven solutions.</li>
+  <li>🔹 Passionate about full-stack development, delivering clean data, problem-solving, and technology-driven solutions.</li>
   <li>🔹 Experienced in Angular, .NET Web API, Node.js, and MSSQL, with a strong foundation in backend and frontend development.</li>
   <li>🔹 Continuously exploring new technologies to enhance my technical expertise.</li>
 </ul>
