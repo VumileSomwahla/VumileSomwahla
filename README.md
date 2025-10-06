@@ -20,7 +20,7 @@
 
 <ul>
   <li>📌 Algorithms & Data Structures</li>
-  <li>📌 Azure Fundamentals (AZ-900, AZ-104)</li>
+  <li>📌 Azure Data Fundamentals (DP-900, DP-700)</li>
 </ul>
 
 <hr>
